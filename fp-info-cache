@@ -1,4 +1,4 @@
-24735720720006481
+24746195048197343
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58295,6 +58295,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HTSOP-J8
+HTSOP-J8
+
+
+0
+21
+9
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -65845,6 +65852,27 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
+0
+2
+2
+MSS1P3L_M3_89A
+DIODE_MSP3V3
+
+MSS1P3L-M3/89A 
+0
+2
+2
+MSS1P3L_M3_89A
+DIODE_MSP3V3-L
+
+MSS1P3L-M3/89A 
+0
+2
+2
+MSS1P3L_M3_89A
+DIODE_MSP3V3-M
+
+MSS1P3L-M3/89A 
 0
 2
 2
@@ -92868,6 +92896,13 @@ Logo WEEE
 0
 0
 0
+TPS25963x
+SOIC-8-1EP_3.9x5.75mm_P1.27mm_EP2.4x3.1mm
+
+
+0
+15
+9
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -99508,6 +99543,13 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+ul_LQH5BPN2R2N38L
+IND_LQH5BPN_MUR
+
+LQH5BPN2R2N38L 
 0
 2
 2

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BDxxHC0WEFJ")(type "KiCad")(uri "${KIPRJMOD}/components/BDxxHC0WEFJ/BDxxHC0WEFJ.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC2943")(type "KiCad")(uri "${KIPRJMOD}/components/LTC2943/LTC2943.kicad_sym")(options "")(descr ""))
+  (lib (name "SY21222ABC")(type "KiCad")(uri "${KIPRJMOD}/components/SY21222ABC/SY21222ABC.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25963x")(type "KiCad")(uri "${KIPRJMOD}/components/TPS25963x/TPS25963x.kicad_sym")(options "")(descr ""))
+)
